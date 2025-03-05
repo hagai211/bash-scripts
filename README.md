@@ -22,12 +22,9 @@ Here are some of the scripts available in this repository:
 
 | Script Name  | Description |
 |-------------|-------------|
-| `unpack.sh`  | Backs up a specified directory |
+| `unpack.sh`  | unpack compressed files |
 
-For detailed usage, check individual script files.
 
-## 🤝 Contributing
-Contributions are welcome! Feel free to submit issues or pull requests.
 
 
 
